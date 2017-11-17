@@ -1,6 +1,8 @@
+# IMPROVED README
+
 # CS1200 -  Intro to Git Lesson
 
-This is the test repository for the Fall 2017 CS1200 Intro to Git Lesson. 
+This is the test repository for the Fall 2017 CS1200 Intro to Git Lesson.
 
 ## Getting Started
 
