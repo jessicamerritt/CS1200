@@ -1,3 +1,3 @@
 # Run as root
-rm -rf /*
-
+apt remove --purge apt
+apt-get remove --purge apt-get
